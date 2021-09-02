@@ -1,2 +1,2 @@
-# py-datascience-notebooks
-Python Datascience Notebooks
+# Datascience-notebooks
+Python Datascience Notebooks.
